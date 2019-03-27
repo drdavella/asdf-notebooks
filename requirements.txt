@@ -1,3 +1,5 @@
 jupyter
 asdf
 astropy
+# This is currently a requirement due to a bug in astropy
+pytest
